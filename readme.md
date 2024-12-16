@@ -126,18 +126,6 @@ The game checks for three matching symbols (`X` or `O`) in:
 
 ---
 
-## Screenshots
-
-### **Game Setup**
-![Game Setup](assets/game-setup.png)
-
-### **In-Game**
-![In-Game](assets/in-game.png)
-
-### **Winning Screen**
-![Winning Screen](assets/winning-screen.png)
-
----
 
 ## Future Improvements
 
@@ -161,4 +149,4 @@ Contributions are welcome! If you'd like to contribute, please:
 
 For any questions or suggestions, feel free to reach out:
 - **Email**: wlqinnovations@example.com
-- **GitHub**: [yourusername](https://github.com/wlqinnovations)
+- **GitHub**: [wlqinnovations](https://github.com/wlqinnovations)
